@@ -1,8 +1,11 @@
 enum layers{
-    _QWERTY,
     _DVORAK,
-    _SYMBOLS,
-    _NUMPAD,
-    _UNDERTALE,
+    _QWERTY,
+    _SYM,
+    _NUM,
+    _NAV,
+    _PLAY,
+    _LOL,
+    _LOL2,
     _CONFIG
 };
